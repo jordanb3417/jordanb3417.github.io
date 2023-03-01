@@ -1,0 +1,34 @@
+
+h1 {
+    color: #0000FF
+}
+
+.Me {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+  width: 650px;
+}
+
+.Other {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  float: right;
+  width: 650px;
+}
+
+.Hobby {
+  background-color: lightgrey;
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  float: left;
+  width: 650px;
+}
