@@ -1,4 +1,8 @@
 
+#header {
+    background-color:lightblue
+}
+
 h1 {
     color: #0000FF
 }
@@ -32,3 +36,6 @@ h1 {
   float: left;
   width: 650px;
 }
+
+.link { color: blue; }
+.link:hover { color: green; }
